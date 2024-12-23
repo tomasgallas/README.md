@@ -45,7 +45,9 @@
         </a>
     </div>
     <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732026.png" alt="Teléfono" width="50" height="50"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732026.png" alt="Mail" width="50" height="50"/>
+        <span>twtomaco@gmail.com</span>
         <span>+54 (264) 4152298</span>
+
     </div>
 </div>
